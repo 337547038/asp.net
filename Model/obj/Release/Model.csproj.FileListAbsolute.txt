@@ -1,0 +1,4 @@
+C:\www\s.x\Model\bin\Release\Model.dll
+C:\www\s.x\Model\bin\Release\Model.pdb
+C:\www\s.x\Model\obj\Release\Model.dll
+C:\www\s.x\Model\obj\Release\Model.pdb

@@ -1,0 +1,12 @@
+C:\www\s.x\Bll\bin\Release\Bll.dll
+C:\www\s.x\Bll\bin\Release\Bll.pdb
+C:\www\s.x\Bll\bin\Release\Dal.dll
+C:\www\s.x\Bll\bin\Release\Model.dll
+C:\www\s.x\Bll\bin\Release\Utility.dll
+C:\www\s.x\Bll\bin\Release\MySql.Data.dll
+C:\www\s.x\Bll\bin\Release\Dal.pdb
+C:\www\s.x\Bll\bin\Release\Model.pdb
+C:\www\s.x\Bll\bin\Release\Utility.pdb
+C:\www\s.x\Bll\obj\Release\Bll.csprojResolveAssemblyReference.cache
+C:\www\s.x\Bll\obj\Release\Bll.dll
+C:\www\s.x\Bll\obj\Release\Bll.pdb

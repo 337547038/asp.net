@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="Admin_MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link href="../Editor/themes/default/default.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <script src="js/jquery-1.12.4.min.js" type="text/javascript"></script>
+    <script src="js/DatePicker/WdatePicker.js" type="text/javascript"></script>
+    <script src="../Editor/kindeditor-all-min.js" type="text/javascript"></script>
+    <script src="../Editor/lang/zh-CN.js" type="text/javascript"></script>
+    <script src="js/jquery.validate.min.js" type="text/javascript"></script>
+    <script src="js/comm.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="breadcrumbs">
+            <div class="fixed">
+                <div class="left">
+                    <asp:Literal ID="breadcrumbs" runat="server"></asp:Literal>
+                </div>
+                <div class="right">
+                    <a href="javascript:history.go(-1);" class="back" title="返回"></a>
+                    <a href="javascript:;" class="fresh" title="刷新" onclick="parent.main.location.reload();"></a>
+                </div>
+            </div>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>

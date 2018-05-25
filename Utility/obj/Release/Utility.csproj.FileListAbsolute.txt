@@ -1,0 +1,9 @@
+C:\www\s.x\Utility\bin\Release\Utility.dll
+C:\www\s.x\Utility\bin\Release\Utility.pdb
+C:\www\s.x\Utility\bin\Release\MySql.Data.dll
+C:\www\s.x\Utility\bin\Release\Interop.MSXML2.dll
+C:\www\s.x\Utility\obj\Release\Utility.csprojResolveAssemblyReference.cache
+C:\www\s.x\Utility\obj\Release\Interop.MSXML2.dll
+C:\www\s.x\Utility\obj\Release\Utility.csproj.ResolveComReference.cache
+C:\www\s.x\Utility\obj\Release\Utility.dll
+C:\www\s.x\Utility\obj\Release\Utility.pdb
